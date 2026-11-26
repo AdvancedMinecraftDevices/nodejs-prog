@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
   "scripts": {
     "build": "tsc"
   },
@@ -10,5 +13,5 @@
   "devDependencies": {
     "typescript": "^6.0.3"
   },
-  "private": true
+  "private": false
 }
