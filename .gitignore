@@ -1,6 +1,12 @@
 /tmp
 /out-tsc
 
+/.idea
+.gitignore
+modules.xml
+nodejs-prog.iml
+vcs.xml
+
 /node_modules
 npm-debug.log*
 yarn-debug.log*
